@@ -8,7 +8,7 @@
 
 # Table of contents
 
-- [objective](objectives)
+- [Objective](objectives)
 - [Data Source](#data=source)
 - [Stages](#stages)
 - [Desidn](#design)
@@ -25,8 +25,11 @@
 - [Visualization](#visualization)
  - [Resukts](#results)
  - [DAX Measures](#dax-measres)
-- [](# )
-- [](# )
-- [](# )
-- [](# )
-- [](# )
+- [Analysis](#analysis)
+ - [Findings](#findings)
+ - [Validation](#validation)
+ - [Discovery](#discovery)
+- [Recommendations](#recommendations)
+ - [Potential ROI](#potential-roi)
+ - [Potential Courses of Actions](#potential-courses-of-actions)
+- [Conclusion](#conclusion)
