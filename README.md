@@ -230,9 +230,7 @@ FROM
 - What data quality and validation checks are you going to create?
 Here are the data quality tests conducted:
 
-# Row count check
-
-## Column count check
+# Row count check & Column count check
 
 ```sql
 /*
@@ -257,4 +255,5 @@ FROM
 WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
-![Data-quality-check](assets/images/Capture3.PNG)
+![Data-quality-check](assets/images/Capture 3.PNG)
+
