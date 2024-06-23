@@ -184,8 +184,8 @@ And here is a tabular representation of the expected schema for the clean data:
 # Transform the data
 
 /*
-1. Select the required columns
-2. Extract the channel name from the 'NOMBRE' column
+# 1. Select the required columns
+# 2. Extract the channel name from the 'NOMBRE' column
 */
 
 -- 1.
@@ -212,7 +212,7 @@ CREATE VIEW view_uk_youtubers_2024 AS
 
 -- 2.
 SELECT
-    CAST(SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS VARCHAR(100)) AS channel_name, -- 2. 
+    CAST(SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS VARCHAR(100)) AS channel_name, 
     total_subscribers,
     total_views,
     total_videos
