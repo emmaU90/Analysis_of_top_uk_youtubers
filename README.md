@@ -184,8 +184,8 @@ And here is a tabular representation of the expected schema for the clean data:
 # Transform the data
 
 /*
-# 1. Select the required columns
-# 2. Extract the channel name from the 'NOMBRE' column
+1. Select the required columns
+2. Extract the channel name from the 'NOMBRE' column
 */
 
 -- 1.
@@ -202,9 +202,9 @@ FROM
 # Create the SQL view
 
 /*
-# 1. Create a view to store the transformed data
-# 2. Cast the extracted channel name as VARCHAR(100)
-# 3. Select the required columns from the top_uk_youtubers_2024 SQL table 
+1. Create a view to store the transformed data
+2. Cast the extracted channel name as VARCHAR(100)
+3. Select the required columns from the top_uk_youtubers_2024 SQL table 
 */
 
 -- 1.
