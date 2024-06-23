@@ -183,6 +183,7 @@ And here is a tabular representation of the expected schema for the clean data:
 
 # Transform the data
 
+```sql
 /*
 # 1. Select the required columns
 # 2. Extract the channel name from the 'NOMBRE' column
@@ -197,7 +198,7 @@ SELECT
 
 FROM
     top_uk_youtubers_2024
-
+```
 
 # Create the SQL view
 
