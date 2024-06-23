@@ -9,7 +9,8 @@
 # Table of contents
 
 - [Objective](objective)
-- [Data Source](#data-source)
+- [Data source](#data-source)
+- [User story](#user-story)
 - [Stages](#stages)
 - [Desidn](#design)
  - [Mockup](#mockup)
