@@ -37,6 +37,7 @@
 
 
 # Objective
+## Hope
 
 - What is the key pain point?
 
