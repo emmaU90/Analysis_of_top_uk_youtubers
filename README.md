@@ -17,8 +17,8 @@
  - [Tools](#tools)
 - [Development](#development)
  - [Pseudocode](#development)
- - [Data Exploration](#data-exploration)
- - [Data Cleaning](#data-cleaning)
+ - [Data exploration](#data-exploration)
+ - [Data cleaning](#data-cleaning)
  - [Transform the Data](#transform-the-data)
  - [Create the SQL View](#Create-the-sql-view)
 - [Testing](#testing)
@@ -137,7 +137,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 8. Write the documentation + commentary
 9. Publish the data to GitHub Pages
 
-# Data exploration notes
+# Data exploration
 This is the stage where you have a scan of what’s in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc
 
 - What are your initial observations with this dataset? What’s caught your attention so far?
@@ -180,3 +180,51 @@ And here is a tabular representation of the expected schema for the clean data:
 1. Remove unnecessary columns by only selecting the ones you need.
 2. Extract Youtube channel names from the first column.
 3. Rename columns using aliases.
+
+# Transform the data
+
+/*
+# 1. Select the required columns
+# 2. Extract the channel name from the 'NOMBRE' column
+*/
+
+-- 1.
+SELECT
+    SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS channel_name,  -- 2.
+    total_subscribers,
+    total_views,
+    total_videos
+
+FROM
+    top_uk_youtubers_2024
+
+
+# Create the SQL view
+
+/*
+# 1. Create a view to store the transformed data
+# 2. Cast the extracted channel name as VARCHAR(100)
+# 3. Select the required columns from the top_uk_youtubers_2024 SQL table 
+*/
+
+-- 1.
+CREATE VIEW view_uk_youtubers_2024 AS
+
+-- 2.
+SELECT
+    CAST(SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS VARCHAR(100)) AS channel_name, -- 2. 
+    total_subscribers,
+    total_views,
+    total_videos
+
+-- 3.
+FROM
+    top_uk_youtubers_2024
+
+
+# Testing
+
+- What data quality and validation checks are you going to create?
+Here are the data quality tests conducted:
+
+# Row count check
