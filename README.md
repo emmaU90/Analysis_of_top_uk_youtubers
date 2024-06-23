@@ -13,7 +13,7 @@
 - [User story](#user-story)
 - [Stages](#stages)
 - [Desidn](#design)
- - [Mockup](#mockup)
+ - [Design mockup](#design-mockup)
  - [Tools](#tools)
 - [Development](#development)
  - [Pseudocode](#development)
@@ -98,7 +98,7 @@ To understand what it should contain, we need to figure out what questions we ne
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
-# Dashboard mockup
+# Design mockup
 
 - What should it look like?
 
@@ -108,3 +108,14 @@ Some of the data visuals that may be appropriate in answering our questions incl
 2. Treemap
 3. Scorecards
 4.  bar chart
+
+![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+
+# Tools
+
+| Tool | Purpose |
+| Excel | Exploring the data |
+| SQL Server | Cleaning, testing, and analyzing the data |
+| Power BI	| Visualizing the data via interactive dashboards |
+| GitHub	| Hosting the project documentation and version control |
+| Mokkup | AI	Designing the wireframe/mockup of the dashboard |
