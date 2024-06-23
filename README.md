@@ -8,7 +8,7 @@
 
 # Table of contents
 
-- [Objective](objective)
+- [Objective](#objective)
 - [Data source](#data-source)
 - [User story](#user-story)
 - [Stages](#stages)
