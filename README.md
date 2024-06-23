@@ -1,4 +1,4 @@
-# Data Portfolio: Excel to Power BI
+# Emmanuel`s Data Portfolio: Excel to Power BI
 
 # Tittle: Analysis of Top Uk Youtubers
 
@@ -232,6 +232,8 @@ Here are the data quality tests conducted:
 
 # Row count check
 
+## Column count check
+
 ```sql
 /*
 # Count the total number of records (or rows) are in the SQL view
@@ -242,3 +244,17 @@ SELECT
 FROM
     view_uk_youtubers_2024;
 ```
+```sql
+/*
+# Count the total number of columns (or fields) are in the SQL view
+*/
+
+
+SELECT
+    COUNT(*) AS column_count
+FROM
+    INFORMATION_SCHEMA.COLUMNS
+WHERE
+    TABLE_NAME = 'view_uk_youtubers_2024'
+```
+![Data-quality-check](assets/images/Capture3.PNG)
