@@ -454,9 +454,9 @@ Campaign idea = product placement
 
  1. NoCopyrightSounds
 
-   -Average views per video = 6.92 million
-   -Product cost = $5
-   -Potential units sold per video = 6.92 million x 2% conversion rate = 138,400 units sold
-   -Potential revenue per video = 138,400 x $5 = $692,000
-   -Campaign cost (one-time fee) = $50,000
-   -Net profit = $692,000 - $50,000 = $642,000
+ - Average views per video = 6.92 million
+ - Product cost = $5
+ - Potential units sold per video = 6.92 million x 2% conversion rate = 138,400 units sold
+ - Potential revenue per video = 138,400 x $5 = $692,000
+ - Campaign cost (one-time fee) = $50,000
+ - Net profit = $692,000 - $50,000 = $642,000
