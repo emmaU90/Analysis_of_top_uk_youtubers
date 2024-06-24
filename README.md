@@ -452,7 +452,7 @@ For this analysis, we’ll prioritize analysing the metrics that are important i
 
 Campaign idea = product placement
 
- 1. NoCopyrightSounds
+a. NoCopyrightSounds
 
  - Average views per video = 6.92 million
  - Product cost = $5
@@ -480,3 +480,37 @@ c. Dan Rhodes
  - **Net profit = $1,115,000 - $50,000 = $1,065,000**
 
 Best option from category: Dan Rhodes
+
+## 2. Youtubers with the most videos uploaded
+### Calculation breakdown
+
+Campaign idea = sponsored video series
+
+a. GRM Daily
+
+ - Average views per video = 510,000
+ - Product cost = $5
+ - Potential units sold per video = 510,000 x 2% conversion rate = 10,200 units sold
+ - Potential revenue per video = 10,200 x $5= $51,000
+ - Campaign cost (11-videos @ $5,000 each) = $55,000
+ - **Net profit = $51,000 - $55,000 = -$4,000 (potential loss)**
+
+b. Manchester City
+
+ - Average views per video = 240,000
+ - Product cost = $5
+ - Potential units sold per video = 240,000 x 2% conversion rate = 4,800 units sold
+ - Potential revenue per video = 4,800 x $5= $24,000
+ - Campaign cost (11-videos @ $5,000 each) = $55,000
+ - **Net profit = $24,000 - $55,000 = -$31,000 (potential loss)**
+
+c. Yogscast
+
+- Average views per video = 710,000
+- Product cost = $5
+- Potential units sold per video = 710,000 x 2% conversion rate = 14,200 units sold
+- Potential revenue per video = 14,200 x $5= $71,000
+- Campaign cost (11-videos @ $5,000 each) = $55,000
+- **Net profit = $71,000 - $55,000 = $16,000 (profit)**
+
+Best option from category: Yogscast
