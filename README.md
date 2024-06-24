@@ -147,12 +147,13 @@ This is the stage where you have a scan of what’s in the data, errors, inconcs
 
 # Data cleaning
 
-- What do we expect the clean data to look like? (What should it contain? What contraints should we apply to it?)
+- What do we expect the clean data to look like?
+- What should it contain?
+- What limitations should we apply to it?
 
 The aim is to refine our dataset to ensure it is structured and ready for analysis.
 
 The cleaned data should meet the following criteria and constraints:
-
 - Only relevant columns should be retained.
 - All data types should be appropriate for the contents of each column.
 - No column should contain null values, indicating complete data for all records.
@@ -189,7 +190,7 @@ And here is a tabular representation of the expected schema for the clean data:
 
 -- 1.
 SELECT
-    SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS channel_name,  -- 2.
+    SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS channel_name,
     total_subscribers,
     total_views,
     total_videos
@@ -197,6 +198,7 @@ SELECT
 FROM
     top_uk_youtubers_2024
 ```
+1[Cleaning-data](assets/images/Capture1.PNG)
 
 # Create the SQL view
 
@@ -212,7 +214,7 @@ CREATE VIEW view_uk_youtubers_2024 AS
 
 -- 2.
 SELECT
-    CAST(SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS VARCHAR(100)) AS channel_name, -- 2. 
+    CAST(SUBSTRING(NOMBRE, 1, CHARINDEX('@', NOMBRE) -1) AS VARCHAR(100)) AS channel_name, 
     total_subscribers,
     total_views,
     total_videos
@@ -221,7 +223,7 @@ SELECT
 FROM
     top_uk_youtubers_2024
 ```
-
+![Cleaning-data](assets/images/Capture2.PNG)
 
 # Testing
 
