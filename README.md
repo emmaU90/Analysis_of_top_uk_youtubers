@@ -298,6 +298,7 @@ HAVING
 ![Data-quality-check](assets/images/Capture4.PNG)
 
 
+
 # Visualization
 
 ## Results
@@ -317,3 +318,39 @@ VAR totalSubscribers = DIVIDE(sumOfSubscribers,million)
 
 RETURN totalSubscribers
 ```
+
+2. Total Views (B)
+```powerbi
+Total Views (B) = 
+VAR billion = 1000000000
+VAR sumOfTotalViews = SUM(view_uk_youtubers_2024[total_views])
+VAR totalViews = ROUND(sumOfTotalViews / billion, 2)
+
+RETURN totalViews
+```
+
+3. Total Videos
+
+4. Average Views Per Video (M)
+
+5. Subscriber Engagement Rate
+
+6. Views per subscriber
+
+
+# Analysis
+
+## Findings
+- What did we find?
+For this analysis, we’re going to focus on the questions below to get the information we need for our marketing client -
+
+Here are the key questions we need to answer for our marketing client:
+
+1. Who are the top 10 YouTubers with the most subscribers?
+2. Which 3 channels have uploaded the most videos?
+3. Which 3 channels have the most views?
+4. Which 3 channels have the highest average views per video?
+5. Which 3 channels have the highest views per subscriber ratio?
+6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
+
+# 1. Who are the top 10 YouTubers with the most subscribers?
