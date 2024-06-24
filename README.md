@@ -599,8 +599,7 @@ We’ll have conversations with the marketing client to forecast what they also 
 
 # Conclusion
 
-Base on the findings and analysis of the viewership and views per subscriber, Dan Rhodes appears to be the best option to advance with due to higher returns of investment compared to other channels.And this calculation was done on our excel workbook
-![Excel-workbook](assets/datasets/youtubers_analysis_workbook_2024.xlsx) 
-Hence the conclusion was that the head of marketing, will work with Dan Rhodes to run it`s current marketing campaing throughout the rest of the year.
+Base on the findings and analysis of the viewership and views per subscriber, Dan Rhodes appears to be the best option to advance with due to higher returns of investment compared to other channels.
+Hence the conclusion was that the head of marketing, will work with Dan Rhodes to run it`s current marketing campaing throughout the rest of the year as per the analysis. 
 
 
