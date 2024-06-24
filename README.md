@@ -198,7 +198,7 @@ SELECT
 FROM
     top_uk_youtubers_2024
 ```
-1[Cleaning-data](assets/images/Capture1.PNG)
+![Cleaning-data-1](assets/images/Capture1.PNG)
 
 # Create the SQL view
 
@@ -223,7 +223,7 @@ SELECT
 FROM
     top_uk_youtubers_2024
 ```
-![Cleaning-data](assets/images/Capture2.PNG)
+![Cleaning-data-2](assets/images/Capture2.PNG)
 
 # Testing
 
