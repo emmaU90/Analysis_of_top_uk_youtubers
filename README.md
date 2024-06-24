@@ -38,19 +38,18 @@
 
 # Objective
 
-- What is the key pain point?
+- What is the key main point?
 
-The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
+The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best fit to run marketing campaigns throughout the rest of the year.
 
 - What is the ideal solution?
   
  To create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their
 - subscriber count
 - total views
-- total videos, and
-- engagement metrics
+- total videos
 
-This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
+This will help the marketing team make informed decisions about which YouTubers is best fit to collaborate with in the upcoming marketing campaigns.
 
 # User story
 
@@ -62,7 +61,7 @@ With this information, I can make more informed decisions about which Youtubers 
 
 # Data source
 
-- What data is needed to achieve our objective?
+- What data is needed to achieve this objective?
 
 We need data on the top UK YouTubers in 2024 that includes their
 
@@ -88,7 +87,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 
-1. Who are the top 10 YouTubers with the most subscribers?
+1. Who are the top 5 YouTubers with the most subscribers?
 2. Which 3 channels have uploaded the most videos?
 3. Which 3 channels have the most views?
 4. Which 3 channels have the highest average views per video?
@@ -106,7 +105,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 1. Table
 2. Treemap
 3. Scorecards
-4.  bar chart
+4. Bar chart
 
 ![Dashboard-Mockup](assets/images/dashboard_mockup.png)
 
