@@ -297,3 +297,20 @@ HAVING
 ```
 ![Data-quality-check](assets/images/Capture4.PNG)
 
+# Visualization
+
+## Results
+- What does the dashboard look like?
+![Visualization](assets/images/powerbi_dashboard.png)
+This shows the Top UK Youtubers in 2024 so far.
+
+# DAX Measures
+```powerbi
+Total Subscribers (M) = 
+VAR million = 1000000
+VAR sumOfSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
+VAR totalSubscribers = DIVIDE(sumOfSubscribers,million)
+
+RETURN totalSubscribers
+```
+1. Total Subscribers (M)
