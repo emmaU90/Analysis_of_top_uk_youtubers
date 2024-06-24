@@ -22,17 +22,16 @@
  - [Transform the Data](#transform-the-data)
  - [Create the SQL View](#Create-the-sql-view)
 - [Testing](#testing)
- - [Data Quality Tests](#data-quality-tests)
 - [Visualization](#visualization)
  - [Resukts](#results)
- - [DAX Measures](#dax-measres)
+ - [Dax Measures](#dax-measres)
 - [Analysis](#analysis)
  - [Findings](#findings)
  - [Validation](#validation)
  - [Discovery](#discovery)
 - [Recommendations](#recommendations)
  - [Potential ROI](#potential-roi)
- - [Potential Courses of Actions](#potential-courses-of-actions)
+ - [Actions Plan](#actions-plan)
 - [Conclusion](#conclusion)
 
 
@@ -306,6 +305,7 @@ HAVING
   
 ![Visualization](assets/images/powerbi_dashboard.png)
 This shows the Top UK Youtubers in 2024 so far.
+
 
 # DAX Measures
 
@@ -582,7 +582,7 @@ We discovered that
 5. NoCopyrightSounds could profit the client $642,000 per video too (which is worth considering).
 
 
-# Action plan
+# Action Plan
 
 - What course of action should we take and why?
 
@@ -596,3 +596,10 @@ We’ll have conversations with the marketing client to forecast what they also 
 2. Negotiate contracts within the budgets allocated to each marketing campaign.
 3. Kick off the campaigns and track each of their performances against the KPIs.
 4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel’s audiences.
+
+
+# Conclusion
+
+Base on the findings and analysis of the viewership and views per subscriber, DanRhodes appears to be a best optiont to advance with due to higher returns of investment compar to other channels. Hence the conclusion was that the hirin
+
+
