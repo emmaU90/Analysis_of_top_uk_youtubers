@@ -23,7 +23,7 @@
  - [Create the SQL View](#Create-the-sql-view)
 - [Testing](#testing)
 - [Visualization](#visualization)
- - [Resukts](#results)
+ - [Results](#results)
  - [Dax measures](#dax-measures)
 - [Analysis](#analysis)
  - [Findings](#findings)
