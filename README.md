@@ -600,6 +600,6 @@ We’ll have conversations with the marketing client to forecast what they also 
 
 # Conclusion
 
-Base on the findings and analysis of the viewership and views per subscriber, DanRhodes appears to be a best optiont to advance with due to higher returns of investment compar to other channels. Hence the conclusion was that the hirin
+Base on the findings and analysis of the viewership and views per subscriber, DanRhodes appears to be the best option to advance with due to higher returns of investment compared to other channels. Hence the conclusion was that the head of marketing, will work with DanRhodes to run it`s current marketing campaing throughout the rest of the year.
 
 
