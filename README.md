@@ -24,14 +24,14 @@
 - [Testing](#testing)
 - [Visualization](#visualization)
  - [Resukts](#results)
- - [Dax Measures](#dax-measres)
+ - [Dax measures](#dax-measures)
 - [Analysis](#analysis)
  - [Findings](#findings)
  - [Validation](#validation)
  - [Discovery](#discovery)
 - [Recommendations](#recommendations)
  - [Potential ROI](#potential-roi)
- - [Actions Plan](#actions-plan)
+ - [Actions plan](#actions-plan)
 - [Conclusion](#conclusion)
 
 
@@ -307,7 +307,7 @@ HAVING
 This shows the Top UK Youtubers in 2024 so far.
 
 
-# DAX Measures
+# Dax measures
 
 1. Total Subscribers (M)
 ```powerbi
@@ -582,7 +582,7 @@ We discovered that
 5. NoCopyrightSounds could profit the client $642,000 per video too (which is worth considering).
 
 
-# Action Plan
+# Actions plan
 
 - What course of action should we take and why?
 
