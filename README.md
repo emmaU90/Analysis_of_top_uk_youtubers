@@ -87,7 +87,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 
-1. Who are the top 5 YouTubers with the most subscribers?
+1. Who are the top 10 YouTubers with the most subscribers?
 2. Which 3 channels have uploaded the most videos?
 3. Which 3 channels have the most views?
 4. Which 3 channels have the highest average views per video?
@@ -439,7 +439,7 @@ Here are the key questions we need to answer for our marketing client:
 | 3	   | Dua Lipa	    | 104,954.95                 |
 
 ## Notes
-For this analysis, we’ll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels wuth the most
+For this analysis, we’ll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels with the most
 
 - subscribers
 - total views
@@ -462,7 +462,7 @@ a. NoCopyrightSounds
  - Campaign cost (one-time fee) = $50,000
  - **Net profit = $692,000 - $50,000 = $642,000**
 
-b. DanTDM
+b. Dan TDM
 
  - Average views per video = 5.34 million
  - Product cost = $5
@@ -568,7 +568,7 @@ We discovered that
 
 1. Dan Rhodes is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in the UK.
 2. Although GRM Daily, Man City and Yogcasts are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is significantly lower compared to the other channels.
-3. Mister Max is the best YouTuber to collaborate with if we’re interested in maximizing reach, but collaborating with DanTDM and Dan Rhodes may be better long-term options considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
+3. Mister Max is the best YouTuber to collaborate with if we’re interested in maximizing reach, but collaborating with DanTDM and Dan Rhodes may be better long-term options, considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
 4. The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
 
 
@@ -577,15 +577,13 @@ We discovered that
 - What ROI do we expect if we take this course of action?
 
 1. Setting up a collaboration deal with Dan Rhodes would make the client a net profit of $1,065,000 per video.
-2. An influencer marketing contract with Mister Max can see the client generate a net profit of $1,276,000.
-3. If we go with a product placement campaign with DanTDM, this could generate the client approximately $484,000 per video.
-4. If we advance with an influencer marketing campaign deal instead, this would make the client a one-off net profit of $404,000.
-5. NoCopyrightSounds could profit the client $642,000 per video too (which is worth considering).
+2. If we go with a product placement campaign with DanTDM, this could generate the client approximately $484,000 per video.
+3. NoCopyrightSounds could profit the client $642,000 per video too (which is worth considering).
 
 
 # Actions plan
 
-- What course of action should we take and why?
+- What action plan should we take and why?
 
 Based on our analysis, we beieve the best channel to advance a long-term partnership deal with to promote the client’s products is the Dan Rhodes channel.
 
@@ -595,12 +593,13 @@ We’ll have conversations with the marketing client to forecast what they also 
 
 1. Reach out to the teams behind each of these channels, starting with Dan Rhodes.
 2. Negotiate contracts within the budgets allocated to each marketing campaign.
-3. Kick off the campaigns and track each of their performances against the KPIs.
+3. Kick off the campaigns and track each of their performances.
 4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel’s audiences.
 
 
 # Conclusion
 
-Base on the findings and analysis of the viewership and views per subscriber, DanRhodes appears to be the best option to advance with due to higher returns of investment compared to other channels. Hence the conclusion was that the head of marketing, will work with DanRhodes to run it`s current marketing campaing throughout the rest of the year.
+Base on the findings and analysis of the viewership and views per subscriber, Dan Rhodes appears to be the best option to advance with due to higher returns of investment compared to other channels.And this calculation was done on our excel workbook ![Excel-workbook](assets/datasets/youtubers_analysis_workbook_2024.xlsx) 
+Hence the conclusion was that the head of marketing, will work with Dan Rhodes to run it`s current marketing campaing throughout the rest of the year.
 
 
