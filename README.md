@@ -12,7 +12,7 @@
 - [Data source](#data-source)
 - [User story](#user-story)
 - [Stages](#stages)
-- [Desidn](#design)
+- [Design](#design)
  - [Design mockup](#design-mockup)
  - [Tools](#tools)
 - [Development](#development)
