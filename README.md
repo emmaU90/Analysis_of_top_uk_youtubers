@@ -1,4 +1,4 @@
-# Emmanuel`s Data Portfolio: Excel to Power BI
+# Excel to Power BI
 
 # Tittle: Analysis of Top Uk Youtubers
 
